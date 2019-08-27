@@ -1,0 +1,12 @@
+{
+  "name": "apicall",
+  "version": "1.0.0",
+  "description": "A library built on top of Axios for easy API Calling",
+  "main": "index.js",
+  "repository": "https://github.com/CameronPodd/apicall",
+  "author": "Cameron Podd",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
